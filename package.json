@@ -1,0 +1,11 @@
+{
+  "name": "react-lesson1",
+  "version": "1.0.0",
+  "description": "first lesson on react course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kosto238",
+  "license": "ISC"
+}
